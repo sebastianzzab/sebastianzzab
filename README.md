@@ -1,23 +1,28 @@
-# 👋 Hi there! I'm Sebastian Ernesto Zabala Zabala
-I’m a **Statistics student** at Universidad de Oriente, Núcleo Nueva Esparta 📊📚, with a strong interest in data analysis, artificial intelligence, and machine learning. Currently, I am preparing to become a **Data Scientist** 👨‍💻. I love exploring and applying statistical techniques and programming to solve complex problems.
-## 🚀 Goals:
-- Become a **Junior Data Scientist**.
-- Contribute to **advanced AI research** projects at leading companies like Google DeepMind, OpenAI, Anthropic, or Mistral.
-- Pursue a **graduate degree in Random Models** and later a **PhD in Mathematics**.
-## 🔧 Skills:
-- **Programming Languages**: Python (familiar with OOP, data analysis).
-- **Applied Statistics**: Regression, Multivariate Analysis, Time Series.
-- **Tools**: Pandas, NumPy, Matplotlib, Jupyter Notebooks.
-- **Multivariate Techniques**: PCA, Cluster Analysis, FA.
-## 📈 Ongoing Projects:
-- Data analysis applied to **education**.
-- Developing algorithms for **time series forecasting**.
-- Data visualization and exploration with **Python**.
+# 👋 Hi, I'm Sebastián Ernesto Zabala Zabala
 
-<!---
-sebastianzzab/sebastianzzab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a **Statistics student at Universidad de Oriente, Núcleo Nueva Esparta** 📊📚, passionate about **data science, statistical learning, and artificial intelligence**. I am currently deepening my understanding of **mathematics for machine learning**, including **linear algebra, calculus, and probability**, while applying everything in **Python**.
+
+I am actively working on **adaptive density estimation for weakly dependent data** and exploring **advanced AI techniques**. I love solving complex problems by combining **statistics, programming, and machine learning**.
+
+## 🚀 Current Goals
+- Become a **Junior Data Scientist**.  
+- Contribute to **cutting-edge AI research** at leading companies like Google DeepMind, OpenAI, Anthropic, or Mistral.  
+- Pursue a **graduate degree in Random Models** and eventually a **PhD in Mathematics**.  
+
+## 🔧 Skills
+- **Programming & Tools**: Python (OOP, data analysis, algorithm implementation), Pandas, NumPy, Matplotlib, Jupyter Notebooks.  
+- **Mathematics & Statistics**: Regression, Multivariate Analysis (PCA, Cluster, FA), Time Series, Probabilistic Modeling, Statistical Learning.  
+- **Machine Learning & AI**: Supervised & Unsupervised Learning, Algorithm Development, Adaptive Kernel Density Estimation.  
+
+## 📈 Ongoing Projects
+- **Adaptive Density Estimation** for weakly dependent data.  
+- **Data Analysis in Education**: applying statistical techniques to real-world datasets.  
+- **Time Series Forecasting**: algorithm development and evaluation.  
+- **Python-based Data Exploration and Visualization**: building reproducible analyses.  
+
+## 🌐 Connect with Me
+- [LinkedIn](www.linkedin.com/in/sebastianzzab)  
+- [Portfolio / Kaggle](https://www.kaggle.com/sebastianzabala)  
 
 
 
