@@ -1,28 +1,91 @@
 # 👋 Hi, I'm Sebastián Ernesto Zabala Zabala
 
-I’m a **Statistics student at Universidad de Oriente, Núcleo Nueva Esparta** 📊📚, passionate about **data science, statistical learning, and artificial intelligence**. I am currently deepening my understanding of **mathematics for machine learning**, including **linear algebra, calculus, and probability**, while applying everything in **Python**.
+🎓 **Statistics student** at *Universidad de Oriente, Núcleo Nueva Esparta*  
+📊 Aspiring **Data Scientist & AI Researcher**  
+🧠 Focused on **Statistical Learning, AI, and Mathematical Foundations**
 
-I am actively working on **adaptive density estimation for weakly dependent data** and exploring **advanced AI techniques**. I love solving complex problems by combining **statistics, programming, and machine learning**.
+---
 
-## 🚀 Current Goals
-- Become a **Junior Data Scientist**.  
-- Contribute to **cutting-edge AI research** at leading companies like Google DeepMind, OpenAI, Anthropic, or Mistral.  
-- Pursue a **graduate degree in Random Models** and eventually a **PhD in Mathematics**.  
+## 🧭 About Me
 
-## 🔧 Skills
-- **Programming & Tools**: Python (OOP, data analysis, algorithm implementation), Pandas, NumPy, Matplotlib, Jupyter Notebooks.  
-- **Mathematics & Statistics**: Regression, Multivariate Analysis (PCA, Cluster, FA), Time Series, Probabilistic Modeling, Statistical Learning.  
-- **Machine Learning & AI**: Supervised & Unsupervised Learning, Algorithm Development, Adaptive Kernel Density Estimation.  
+I am currently working on **adaptive density estimation for weakly dependent data**, with a strong emphasis on **theoretical foundations and practical implementation**.
 
-## 📈 Ongoing Projects
-- **Adaptive Density Estimation** for weakly dependent data.  
-- **Data Analysis in Education**: applying statistical techniques to real-world datasets.  
-- **Time Series Forecasting**: algorithm development and evaluation.  
-- **Python-based Data Exploration and Visualization**: building reproducible analyses.  
+I am deeply studying **mathematics for machine learning**, including:
+- Linear Algebra
+- Probability Theory
+- Calculus
+
+while **programming intensively in Python** to translate theory into reproducible and efficient algorithms.
+
+My long-term goal is to contribute to **advanced AI research** by combining **statistics, mathematics, and computation**.
+
+---
+
+## 🚀 Career Goals
+
+- 📌 Become a **Junior Data Scientist**
+- 🤖 Contribute to **cutting-edge AI research** at companies such as  
+  **Google DeepMind, OpenAI, Anthropic, or Mistral**
+- 🎓 Pursue a **Master’s degree in Random Models**
+- 🎓 Obtain a **PhD in Mathematics**
+
+---
+
+## 🧠 Core Skills
+
+### 📐 Mathematics & Statistics
+- Probability Theory & Random Processes  
+- Regression Analysis  
+- Multivariate Analysis (PCA, Clustering, Factor Analysis)  
+- Time Series Analysis  
+- Statistical Learning Theory  
+- Kernel Density Estimation (KDE)
+
+### 🤖 Machine Learning & AI
+- Supervised & Unsupervised Learning  
+- Algorithm Design & Evaluation  
+- Adaptive Methods  
+- Mathematical Foundations of ML
+
+### 💻 Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+- Python (OOP, numerical computing, data analysis)
+- Jupyter Notebooks
+- Reproducible research workflows
+
+---
+
+## 📈 Current Projects
+
+- 🔬 **Adaptive Density Estimation** for weakly dependent data  
+- 📊 **Statistical Data Analysis in Education**
+- ⏱️ **Time Series Forecasting Algorithms**
+- 📉 **Data Visualization & Exploratory Analysis in Python**
+
+---
+
+## 📌 Research & Learning Focus
+
+- Mathematical foundations of Machine Learning  
+- Dependence structures in stochastic processes  
+- Nonparametric estimation  
+- Theory ↔ implementation bridge in statistical algorithms  
+
+---
 
 ## 🌐 Connect with Me
 - [LinkedIn](www.linkedin.com/in/sebastianzzab)  
-- [Portfolio / Kaggle](https://www.kaggle.com/sebastianzabala)  
+- [Portfolio / Kaggle](https://www.kaggle.com/sebastianzabala)
+
+  
+---
+
+⭐ *I believe strong AI systems are built on solid mathematics, statistics, and careful modeling.*
 
 
 
