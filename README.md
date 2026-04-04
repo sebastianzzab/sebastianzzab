@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sebastián Ernesto Zabala Zabala
+# 👋 Hi, I'm Sebastian Ernesto Zabala Zabala
 
 🎓 **Statistics student** at *Universidad de Oriente, Núcleo Nueva Esparta*  
 📊 Aspiring **Data Scientist & AI Researcher**  
@@ -79,7 +79,7 @@ My long-term goal is to contribute to **advanced AI research** by combining **st
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/sebastianzzab)  
+- [LinkedIn](https://www.linkedin.com/in/szabalaz/)  
 - [Portfolio / Kaggle](https://www.kaggle.com/sebastianzabala)
 
   
