@@ -23,7 +23,7 @@ My long-term goal is to contribute to **advanced AI research** by combining **st
 
 ## 🚀 Career Goals
 
-- 📌 Become a **Junior Data Scientist**
+- 📌 Become a **Data Scientist**
 - 🤖 Contribute to **cutting-edge AI research** at companies such as  
   **Google DeepMind, OpenAI, Anthropic, or Mistral**
 - 🎓 Pursue a **Master’s degree in Random Models**
@@ -63,9 +63,9 @@ My long-term goal is to contribute to **advanced AI research** by combining **st
 ## 📈 Current Projects
 
 - 🔬 **Adaptive Density Estimation** for weakly dependent data  
-- 📊 **Statistical Data Analysis in Education**
+- 📊 **Statistical Data Analysis in public policies**
 - ⏱️ **Time Series Forecasting Algorithms**
-- 📉 **Data Visualization & Exploratory Analysis in Python**
+- 📉 **Data Visualization & Exploratory Analysis in Python and R**
 
 ---
 
@@ -81,8 +81,8 @@ My long-term goal is to contribute to **advanced AI research** by combining **st
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/szabalaz/)  
 - [Portfolio / Kaggle](https://www.kaggle.com/sebastianzabala)
+- [Twitter/X](https://x.com/szabalaz)
 
-  
 ---
 
 ⭐ *I believe strong AI systems are built on solid mathematics, statistics, and careful modeling.*
